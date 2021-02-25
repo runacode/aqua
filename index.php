@@ -1,5 +1,5 @@
 <?php $company = "Aqua Systems Plumbing";
-$phone = "(831) 239-9917"
+$phone = "(831) 239-9917";
 	$address1 = "701 Beach St Apt 101";
 	$address2 = "Santa Cruz, CA 95060";
 ?>
