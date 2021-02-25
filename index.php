@@ -1,7 +1,7 @@
-<?php $company = "Mike's Landscapeee";
-$phone = "1(800) 232-2323"
-	$address1 = "100 give a fucks st";
-	$address2 = "i don' ca, 90210";
+<?php $company = "Aqua Systems Plumbing";
+$phone = "(831) 239-9917"
+	$address1 = "701 Beach St Apt 101";
+	$address2 = "Santa Cruz, CA 95060";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -74,7 +74,7 @@ $phone = "1(800) 232-2323"
                   </div>
                 </div>
                 <h3 class="u-text u-text-7">Get in touch</h3>
-                <h6 class="u-text u-text-8">Hey! We are looking forward to start a project with you!</h6>
+                <h6 class="u-text u-text-8">Hey! We are looking forward to starting a project with you!</h6>
               </div>
             </div>
           </div>
